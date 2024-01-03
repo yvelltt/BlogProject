@@ -1,6 +1,7 @@
 # src/admin/config.yml
 backend:
   name: github
+  repo: yvelltt/BlogProject # 您的 GitHub 用户名和仓库名
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "src/assets/images" # Media files will be stored in the repo under assets/images
